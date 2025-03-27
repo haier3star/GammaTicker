@@ -1,2 +1,2 @@
 # GammaTicker
-This is my First Gib Repos
+This is my First Git Repos
